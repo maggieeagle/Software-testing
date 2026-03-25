@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1774440424192" clover="3.2.0">
+  <project timestamp="1774440424192" name="All files">
+    <metrics statements="17" coveredstatements="17" conditionals="26" coveredconditionals="26" methods="2" coveredmethods="2" elements="45" coveredelements="45" complexity="0" loc="17" ncloc="17" packages="1" files="1" classes="1"/>
+    <file name="triangle.js" path="/home/blackbox/Narva College programming/Software testing/assignment2/triangle.js">
+      <metrics statements="17" coveredstatements="17" conditionals="26" coveredconditionals="26" methods="2" coveredmethods="2"/>
+      <line num="2" count="31" type="stmt"/>
+      <line num="3" count="31" type="stmt"/>
+      <line num="7" count="9" type="stmt"/>
+      <line num="11" count="31" type="cond" truecount="4" falsecount="0"/>
+      <line num="12" count="3" type="stmt"/>
+      <line num="14" count="28" type="cond" truecount="4" falsecount="0"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="17" count="25" type="cond" truecount="4" falsecount="0"/>
+      <line num="18" count="3" type="stmt"/>
+      <line num="22" count="22" type="cond" truecount="5" falsecount="0"/>
+      <line num="23" count="6" type="stmt"/>
+      <line num="27" count="16" type="cond" truecount="4" falsecount="0"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="30" count="14" type="cond" truecount="5" falsecount="0"/>
+      <line num="31" count="12" type="stmt"/>
+      <line num="33" count="2" type="stmt"/>
+      <line num="50" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
