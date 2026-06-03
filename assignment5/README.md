@@ -21,6 +21,4 @@ Out of scope:
 
 Run with a command
 
-    ```
     [... assignment5]$ npm test -- assignment5
-    ```
